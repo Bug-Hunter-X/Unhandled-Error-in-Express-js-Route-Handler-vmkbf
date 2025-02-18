@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Express.js route handlers:  the lack of proper error handling when dealing with user inputs.  The `bug.js` file shows the flawed code, and `bugSolution.js` provides the corrected version with robust error handling.  This example specifically highlights the issue of converting a user-provided ID to an integer without validation.
